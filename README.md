@@ -1,0 +1,15 @@
+# strutvane-agent-tools
+
+> **Status: planned, not built yet.** This repository reserves the name and will hold the package when it is built. Nothing here is usable today.
+
+**AI coding assistants**: AGENTS.md, skills and a local docs MCP server.
+
+| | |
+|---|---|
+| Package | `@strutvane/agent-tools` (not published yet) |
+| Part of | [Strutvane](https://github.com/vishwajit-vm/strutvane), a TypeScript framework and package ecosystem for B2B apps, in the spirit of Laravel |
+| Roadmap | phase 3, planned for the 1.0 line ([delivery plan](https://github.com/vishwajit-vm/strutvane/blob/main/docs/21-delivery-plan.md)) |
+| Docs | https://vishwajit-vm.github.io/strutvane-docs/ |
+| License | MIT |
+
+When it is ready it installs itself into a Strutvane app with `node strut install:agent-tools`.
